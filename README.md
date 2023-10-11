@@ -5,4 +5,4 @@ Dashboard Public link - https://public.tableau.com/views/Analysinghousingpricesi
 
 Story Public link-https://public.tableau.com/views/AnalysinghousingpricesinmetropolitanareasofIndia2_16969289148090/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Video demonstration link-httpsdrive.google.comfiled1gPVOm9hqtJbeEK_fjZy1JAEH5S785Oenviewusp=drive_link
+Video demonstration link-https://drive.google.com/file/d/1gPVOm9hqtJbeEK_fjZy1JAEH5S785Oen/view?usp=sharing
